@@ -40,7 +40,3 @@
 - Telegram: @retr0
 
 ---
-
-<p align="center">
-  <img src="https://github.com/retr0x/retr0x/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
