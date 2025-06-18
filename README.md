@@ -18,9 +18,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=gnubash)
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=protonmail)
 
 ---
 
