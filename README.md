@@ -18,6 +18,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 
 ---
 
